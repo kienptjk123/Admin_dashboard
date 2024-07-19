@@ -10,6 +10,7 @@ import {
   chartBoxUser
 } from 'data'
 import BarChartBox from 'components/barChartBox/BarChartBox'
+
 import PieChartBox from 'components/pieChartBox/PieChartBox'
 import BigChartBox from 'components/bigChartBox/BigChartBox'
 
