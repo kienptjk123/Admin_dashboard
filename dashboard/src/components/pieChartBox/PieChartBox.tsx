@@ -20,6 +20,7 @@ const PieChartBox = () => {
               {data.map((item) => (
                 <Cell key={item.name} fill={item.color} />
               ))}
+
             </Pie>
           </PieChart>
         </ResponsiveContainer>
@@ -30,6 +31,7 @@ const PieChartBox = () => {
           <div className='option' key={item.name}>
             <div className='title'>
               <div className='dot' style={{ backgroundColor: item.color }}></div>
+
               <span>{item.name}</span>
             </div>
             <span>{item.value}</span>
