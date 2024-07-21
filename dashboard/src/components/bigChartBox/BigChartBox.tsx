@@ -7,6 +7,7 @@ const data = [
     books: 4000,
     clothes: 2400,
     electronic: 2400
+
   },
   {
     name: 'Mon',
@@ -17,7 +18,9 @@ const data = [
   {
     name: 'Tue',
     books: 2000,
+
     clothes: 9800,
+
     electronic: 2290
   },
   {
