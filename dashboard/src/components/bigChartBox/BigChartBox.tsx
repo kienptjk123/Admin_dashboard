@@ -19,6 +19,7 @@ const data = [
     name: 'Tue',
     books: 2000,
 
+
     clothes: 9800,
 
     electronic: 2290
