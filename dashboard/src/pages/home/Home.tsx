@@ -1,5 +1,6 @@
 import TopBox from 'components/topBox/TopBox'
 import './home.scss'
+
 import ChartBox from 'components/chartBox/ChartBox'
 import {
   barChartBoxRevenue,
