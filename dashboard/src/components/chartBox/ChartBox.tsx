@@ -7,6 +7,7 @@ type Props = {
   icon: string
   title: string
   dataKey: string
+
   number: number | string
   percentage: number
   chartData: object[]
